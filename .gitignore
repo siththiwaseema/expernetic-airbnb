@@ -1,0 +1,9 @@
+data/raw/
+venv/
+*.gz
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+db/*.db
+*.pyc
+.env
