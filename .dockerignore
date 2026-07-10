@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+*.gz
+.env
+*.duckdb
+data/raw/
+data/processed/
